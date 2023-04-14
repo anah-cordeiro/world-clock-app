@@ -4,9 +4,6 @@ header {
   color: rgb(201, 89, 106);
   font-family: "Kanit", sans-serif;
   font-size: 36px;
-  background-image: url("https://www.nicepng.com/png/full/58-586696_background-transparent-png-sakura-petals-hd-cherry-blossom.png");
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 h1 {
@@ -21,7 +18,10 @@ h1 {
 body {
   background-color: rgb(234, 188, 201);
   font-size: 16px;
-  background-image: url(https://www.nicepng.com/png/detail/67-675841_sakura-png-cherry-blossom-branch-png.png);
+  background-image: url(https://raw.githubusercontent.com/anah-cordeiro/world-clock-app/main/media/sakurabranch.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 600px;
 }
 
 .container {
